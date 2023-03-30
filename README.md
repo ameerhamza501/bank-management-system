@@ -11,4 +11,4 @@ Features
 - Login / Logout
 - add payee
 - transfer funds
-- Manage account acesss
+- Manager account acesss
